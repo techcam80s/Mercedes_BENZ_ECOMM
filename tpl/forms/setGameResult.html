@@ -1,0 +1,22 @@
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">Set Game Result</h5>
+        <form action="../pool_website/db/setGameResult.php" method="post">
+            <div class="form-group">
+                <label>Game ID</label>
+                <input type="text" name="game_id" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>Winner User ID</label>
+                <input type="text" name="winner_user_id" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>Loser User ID</label>
+                <input type="text" name="loser_user_id" class="form-control">
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
