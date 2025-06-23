@@ -1,8 +1,8 @@
-# 🚗 Mercedes-Benz NZ/AUS | Digital Agency Model Ecosystem
+# 🚗 Premium | Digital Agency Model Ecosystem
 
 ## 🎯 Context & Goal
 
-Mercedes-Benz is shifting to the **Agency Model** in New Zealand and Australia. Under this model:
+"" is shifting to the **Agency Model** in New Zealand and Australia. Under this model:
 
 - The **manufacturer sets the price and owns the stock**
 - Dealers act as **brand agents**, focusing on customer experience and service
@@ -13,7 +13,7 @@ Mercedes-Benz is shifting to the **Agency Model** in New Zealand and Australia. 
 - Real-time stock and data visibility
 - Modern UX (mobile & desktop)
 - Streamlined tools for agents
-- Integration with MB HQ systems
+- Integration with "" HQ systems
 
 ---
 
@@ -22,7 +22,7 @@ Mercedes-Benz is shifting to the **Agency Model** in New Zealand and Australia. 
 ### A. User Personas
 - **Customer**: Explore, reserve, or purchase a vehicle online
 - **Agent (Dealer Staff)**: Manage test drives, queries, delivery
-- **Admin (MB HQ)**: Manage pricing, inventory, and approvals
+- **Admin ("" HQ)**: Manage pricing, inventory, and approvals
 
 ### B. Core Modules
 
@@ -124,7 +124,7 @@ Admin Portal Update → Webhook Trigger → HQ API Response (Pricing/Inventory) 
 ## 🧠 6. UX Journey Flow
 ```
 User Visits Platform
-→ Personalized Interface
+→ Personalised Interface
 → Fixed Transparent Pricing
 → Fast Checkout with Human Support
 → Omnichannel Follow-up
@@ -145,8 +145,8 @@ User Visits Platform
 ---
 
 ## 📌 Notes
-- Align local dealer systems with global Mercedes-Benz infrastructure.
-- Prioritize performance, accessibility, and modern UI across devices.
+- Align local dealer systems with global "" infrastructure.
+- Prioritise performance, accessibility, and modern UI across devices.
 - Design with both **B2C (Customer)** and **B2B (Dealer/Admin)** flows in mind.
 
 ---
